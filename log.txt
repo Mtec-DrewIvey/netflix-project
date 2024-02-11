@@ -1,3 +1,15 @@
+commit 8f793f36549163d1dcdf404a8d08478ff6ac083e
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:47:20 2024 -0700
+
+    adding backdrop blur when modal is open. It was previously already in the project but appears to have been removed at some point.
+
+commit d89208e17759825aaf07403fee9f268f335bf74a
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:40:22 2024 -0700
+
+    git pages would not show background image using tailwind background class. Had to update to use existing wrapper id and regular css to link bg image.
+
 commit b3875f0f5eefab36367df637d803821cb41b4df5
 Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
 Date:   Sun Feb 11 10:31:15 2024 -0700
