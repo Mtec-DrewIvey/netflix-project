@@ -689,23 +689,7 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'images\/login-bg\.webp\'\)\] {
-  background-image: url('images/login-bg.webp');
-}
-
-.bg-\[url\(\'\.\/images\/login-bg\.jpg\'\)\] {
-  background-image: url('./images/login-bg.jpg');
-}
-
-.bg-\[url\(\'images\/login-bg\.jpg\'\)\] {
-  background-image: url('images/login-bg.jpg');
-}
-
-.bg-\[url\(\'\.\/images\/login-bg\.webp\'\)\] {
-  background-image: url('./images/login-bg.webp');
-}
-
-.bg-\[url\(\'\/images\/login-bg\.jpg\'\)\] {
+.bg-login-bg {
   background-image: url('/images/login-bg.jpg');
 }
 

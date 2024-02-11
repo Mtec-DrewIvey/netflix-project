@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./*html"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'login-bg': "url('/images/login-bg.jpg')",
+      }
+    },
   },
   plugins: [],
 }
