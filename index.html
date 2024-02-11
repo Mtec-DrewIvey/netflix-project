@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- my css & JS links -->
+    <script defer src="scripts/main.js"></script>
     <link rel="stylesheet" href="css/app.css">
     <title>Netflix Replica</title>
 </head>
@@ -20,8 +22,28 @@
                 <button id="signInButton" class="px-4 py-2 transition duration-300 ease-in bg-red-600 rounded-md hover:bg-red-700 hover:scale-105">Sign In</button>
             </div>
         </div>
-
+        <!-- Main Info -->
         <main class="flex items-center justify-center min-h-full">
+
+            <!-- Modal Attempt -->
+            <div id="myModal" class="fixed z-10 hidden w-full h-full modal">
+                <div class="relative w-4/12 p-6 mx-auto mt-48 text-center bg-white border-2 modal-content border-slate-800/50">
+                    <span class="absolute text-xl text-gray-400 cursor-pointer right-4 top-2 close hover:text-black">&times;</span>
+                    <div class="mb-4 text-3xl text-black signInText">
+                        <h3>Sign In</h3>
+                    </div>
+                    <div class="userEmail">
+                        <input type="email" name="userEmail" id="userEmail" placeholder="Email" class="w-full px-4 py-2 m-2 border-2 border-black">
+                    </div>
+                    <div class="userPwd">
+                        <input type="password" name="userPwd" id="userPwd" placeholder="Password" class="w-full px-4 py-2 m-2 border-2 border-black">
+                    </div>
+                    <div class="signInBtn">
+                        <button id="signIn" class="px-4 py-2 text-white duration-300 bg-red-600 rounded-md hover:bg-red-700">Sign In</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Back to main Headers & Sign up Option -->
             <div class="text-center">
                 <div class="mb-4 text-6xl text-white main-header">
                     <h1>Unlimited movies, TV shows, and more.</h1>
@@ -40,7 +62,5 @@
 
         </main>
     </div>
-
-
 </body>
 </html>
