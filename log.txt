@@ -1,0 +1,47 @@
+commit 270a6cd200b6817a33c888c4a97ceb5f6391b832
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 09:46:10 2024 -0700
+
+    Adding Modal and using javascript to do basic validation that email and pwd fields aren't empty.
+
+commit d67c591350e565b1065e7023b5f76d85d686db2a
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 18:25:50 2024 -0700
+
+    Adding some responsiveness to the page, making text boxes wrap as well as the english & Sign in buttons. Scaling logo down for smaller screens
+
+commit 863a3ff5e8f2f5033d2557cd8958a45f5a424e6c
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 18:10:33 2024 -0700
+
+    finish basic page by adding email text box and get started button
+
+commit 10e240d70776f126b12fc654101efc367a8341eb
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 17:56:21 2024 -0700
+
+    Added main section and headers
+
+commit cdaad6afe187293ca04c4ebdf46498dae5787996
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 17:45:11 2024 -0700
+
+    Added top bar to screen including logo, language btn and sign in btn
+
+commit 6d7ac494679c6fa503557ff409cdb49014788d22
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 17:37:50 2024 -0700
+
+    Adding bg image and styling to fill full page
+
+commit eb10471274e2624d2a694e1f9102ceb2deae1bf5
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Thu Feb 8 17:34:33 2024 -0700
+
+    Initial commit, setting up tailwind, index and css links
+
+commit 18bf38eeafe338eac5c978e3f15d227da5a97c64
+Author: Drew Ivey <155995115+Mtec-DrewIvey@users.noreply.github.com>
+Date:   Thu Feb 8 17:20:45 2024 -0700
+
+    Initial commit
