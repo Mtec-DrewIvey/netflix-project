@@ -1,3 +1,39 @@
+commit b3875f0f5eefab36367df637d803821cb41b4df5
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:31:15 2024 -0700
+
+    png didn't work, attempting to create background with base css instead of tailwind to see if this will work
+
+commit 23c1c9a6b81e1bf1ef16567c5f6b37487eaa4169
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:29:06 2024 -0700
+
+    updating bg image to png as I can't find out why git pages is not displaying the background
+
+commit 1ac7b14c58b039e2270907090844a4da1886b0eb
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:22:19 2024 -0700
+
+    attempting to customize bg by updating tailwind config
+
+commit b922edd46b7edd68c3d7074e560066f2812b0f86
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:17:18 2024 -0700
+
+    git pages does not like how I link my bg image. Live Server shows bg image using relative path. testing different forms
+
+commit a50a7046ee6d2304312fc52655e44917452d8787
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 10:11:58 2024 -0700
+
+    updated bg image format to jpg from webp. Noticed issues on git pages while using webp format
+
+commit 31c763f0fdcc23053b8ab2b649718ee74ab07259
+Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
+Date:   Sun Feb 11 09:58:46 2024 -0700
+
+    Updating README and adding git log.
+
 commit 270a6cd200b6817a33c888c4a97ceb5f6391b832
 Author: Drew Ivey <drew.ivey4543@stu.mtec.edu>
 Date:   Sun Feb 11 09:46:10 2024 -0700

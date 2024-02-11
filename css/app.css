@@ -689,10 +689,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-login-bg {
-  background-image: url('/images/login-bg.png');
-}
-
 .bg-cover {
   background-size: cover;
 }
